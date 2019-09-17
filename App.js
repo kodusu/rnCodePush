@@ -28,7 +28,7 @@ import {
 const App = () => {
   return (
     <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
-      <Text onPress={()=>alert('bisa di tap dongg')} style={{backgroundColor:'red'}}>UPDATE DONGGG</Text>
+      <Text onPress={()=>alert('bisa di tap dongg')} style={{backgroundColor:'blue'}}>UPDATE AHAYY</Text>
     </View>
   )
 }
@@ -71,7 +71,5 @@ const styles = StyleSheet.create({
     textAlign: 'right'
   }
 })
-const codePushOptions = { checkFrequency: codePush.CheckFrequency.ON_APP_RESUME, installMode: codePush.InstallMode.ON_NEXT_SUSPEND }
-const PushApp = codePush(codePushOptions)(App)
 
-export default PushApp
+export default App
