@@ -28,7 +28,7 @@ import {
 const App = () => {
   return (
     <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
-      <Text>VERSI 1.1</Text>
+      <Text>ASIKK, DAPET UPDATE DARI 1.1 UNTUK FIX MINOR</Text>
     </View>
   )
 }
