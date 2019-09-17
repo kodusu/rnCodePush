@@ -1,0 +1,13 @@
+<resources>
+	<string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">BOTE3GYI-h-Fb4l4rLEE6syX7E4l8a6df77c-b5f2-4d71-9940-8420e5ae937f</string>
+    <string name="app_name">appPush</string>
+</resources>
+<!-- 
+┌────────────┬──────────────────────────────────────────────────────────────────┐
+│ Name       │ Deployment Key                                                   │
+├────────────┼──────────────────────────────────────────────────────────────────┤
+│ Production │ zQybnEYqs_yH11XbKw0a_4sGy2FA8a6df77c-b5f2-4d71-9940-8420e5ae937f │
+├────────────┼──────────────────────────────────────────────────────────────────┤
+│ Staging    │ BOTE3GYI-h-Fb4l4rLEE6syX7E4l8a6df77c-b5f2-4d71-9940-8420e5ae937f │
+└────────────┴──────────────────────────────────────────────────────────────────┘
+ -->
