@@ -28,7 +28,7 @@ import {
 const App = () => {
   return (
     <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
-      <Text>ASIKK, DAPET UPDATE DARI 1.1 UNTUK FIX MINOR</Text>
+      <Text>TEST UPDATE FOREGROND</Text>
     </View>
   )
 }
