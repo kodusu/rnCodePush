@@ -28,7 +28,7 @@ import {
 const App = () => {
   return (
     <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
-      <Text>HOHOHO AJAIB</Text>
+      <Text>VERSI 1.1</Text>
     </View>
   )
 }
@@ -71,7 +71,7 @@ const styles = StyleSheet.create({
     textAlign: 'right'
   }
 })
-const codePushOptions = { checkFrequency: codePush.CheckFrequency.ON_APP_START }
+const codePushOptions = { checkFrequency: codePush.CheckFrequency.ON_APP_RESUME }
 const PushApp = codePush(codePushOptions)(App)
 
 export default PushApp
