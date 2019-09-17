@@ -1,4 +1,4 @@
-  
+
 module.exports = {
   dependencies: {
     'react-native-code-push': {
