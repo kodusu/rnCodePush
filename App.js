@@ -28,7 +28,7 @@ import {
 const App = () => {
   return (
     <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
-      <Text onPress={()=>alert('bisa di tap dongg')} style={{backgroundColor:'blue', color:'#fff'}}>UPDATE LAGI AHH</Text>
+      <Text onPress={()=>alert('weii...')} style={{backgroundColor:'blue', color:'#fff'}}>UPDATE LAGI AHH</Text>
     </View>
   )
 }
