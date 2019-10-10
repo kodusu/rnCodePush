@@ -32,7 +32,7 @@ public class MainApplication extends Application implements ReactApplication {
       @SuppressWarnings("UnnecessaryLocalVariable")
       List<ReactPackage> packages = new PackageList(this).getPackages();
       // Packages that cannot be autolinked yet can be added manually here, for example:
-      packages.add(new CodePush("BOTE3GYI-h-Fb4l4rLEE6syX7E4l8a6df77c-b5f2-4d71-9940-8420e5ae937f", MainApplication.this, BuildConfig.DEBUG));
+      packages.add(new CodePush("AQY_BuYyA6qDuv-oaIjJoiItw1YxJazM2usWYB", MainApplication.this, BuildConfig.DEBUG));
       return packages;
     }
 
